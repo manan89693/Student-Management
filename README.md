@@ -90,22 +90,6 @@ python main.py
 ✅ A desktop GUI will open — allowing you to manage student records easily.
 
 ---
-## 📸 Screenshots
-
-Here’s a preview of the app GUI:
-
-![App Screenshot](sc11.png)
-
-
----
-
-## 🙋‍♂️ Author
-
-**Mohan Sarma**  
-👨‍💻 [GitHub](https://github.com/smohansarma)  
-🔗 [LinkedIn](https://www.linkedin.com/in/mohan-sarma-s-b36752252)
-
----
 
 ## ⭐ Like this project?
 
